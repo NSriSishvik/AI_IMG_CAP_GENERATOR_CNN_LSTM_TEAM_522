@@ -1,4 +1,4 @@
-# AI_IMG_CAP_GEN_CNN_LSTM_TEAM_522
+# AI_SMARTINTERNZ_IMG_CAPTION_GENERATION_CNN_LSTM_FLASK_FLICKR8KDATASET_TEAM_522
 Introduction: Image caption generation is a challenging task in the field of computer vision and natural language processing. It involves the generation of human-like descriptions or captions for given images. This report presents a deep learning-based approach to tackle the image caption generation problem.
 
 Objective: The objective of this study is to develop a system that can automatically generate captions for images using a pre-trained deep learning model. The system allows users to upload images through a web interface and provides captions describing the content of the images.
@@ -22,3 +22,5 @@ TEAM
 3)NARASAMBATTU SRI SISHVIK 20BCE1735 VIT CHENNAI
 
 4)KARTHEEK ANUSURI 20BAI10344 VIT BHOPAL
+Video Link -> 
+https://drive.google.com/file/d/1D_NYWTAzj4bh9EHmrrdATuNdRqoCfhqw/view?usp=sharing
